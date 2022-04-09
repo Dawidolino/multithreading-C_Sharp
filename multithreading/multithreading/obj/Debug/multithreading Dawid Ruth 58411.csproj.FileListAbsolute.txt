@@ -1,0 +1,10 @@
+E:\buda\c#\multithreading Dawid Ruth 58411\multithreading Dawid Ruth 58411\bin\Debug\multithreading Dawid Ruth 58411.exe.config
+E:\buda\c#\multithreading Dawid Ruth 58411\multithreading Dawid Ruth 58411\bin\Debug\multithreading Dawid Ruth 58411.exe
+E:\buda\c#\multithreading Dawid Ruth 58411\multithreading Dawid Ruth 58411\bin\Debug\multithreading Dawid Ruth 58411.pdb
+E:\buda\c#\multithreading Dawid Ruth 58411\multithreading Dawid Ruth 58411\obj\Debug\multithreading Dawid Ruth 58411.csproj.AssemblyReference.cache
+E:\buda\c#\multithreading Dawid Ruth 58411\multithreading Dawid Ruth 58411\obj\Debug\multithreading_Dawid_Ruth_58411.Form1.resources
+E:\buda\c#\multithreading Dawid Ruth 58411\multithreading Dawid Ruth 58411\obj\Debug\multithreading_Dawid_Ruth_58411.Properties.Resources.resources
+E:\buda\c#\multithreading Dawid Ruth 58411\multithreading Dawid Ruth 58411\obj\Debug\multithreading Dawid Ruth 58411.csproj.GenerateResource.cache
+E:\buda\c#\multithreading Dawid Ruth 58411\multithreading Dawid Ruth 58411\obj\Debug\multithreading Dawid Ruth 58411.csproj.CoreCompileInputs.cache
+E:\buda\c#\multithreading Dawid Ruth 58411\multithreading Dawid Ruth 58411\obj\Debug\multithreading Dawid Ruth 58411.exe
+E:\buda\c#\multithreading Dawid Ruth 58411\multithreading Dawid Ruth 58411\obj\Debug\multithreading Dawid Ruth 58411.pdb
